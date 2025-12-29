@@ -44,7 +44,7 @@ This project was developed as a final project for the **Computer Organization** 
 
 ## 👨‍💻 Team / Authors
 * **Abdelrahman Alaa**
-* * **Amr Gaith**
+* **Amr Gaith**
 * **Amro Mostafa**
 * **Yara Alhussany**
 * **Mohamed Medhat**
