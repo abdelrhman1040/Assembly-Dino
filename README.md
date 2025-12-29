@@ -1,5 +1,11 @@
 # MIPS Dino Run 🦖
 
+<img width="1084" height="549" alt="image" src="https://github.com/user-attachments/assets/e54ae5d3-c125-43f3-abda-7776e1eed4e9" />
+<img width="1084" height="550" alt="image" src="https://github.com/user-attachments/assets/4f5b965d-2649-44d1-ac0f-9099623f48b2" />
+<img width="1085" height="548" alt="image" src="https://github.com/user-attachments/assets/8e968b91-8c2a-4a46-bbff-eeaf5d54c3a1" />
+<img width="1085" height="550" alt="image" src="https://github.com/user-attachments/assets/298a5969-8a11-4d8e-8a36-cfffcc28f22b" />
+
+
 A fully functional clone of the famous Chrome "No Internet" Dino game, written entirely in **MIPS Assembly Language**. This project demonstrates low-level programming concepts, memory manipulation, and real-time graphics rendering using the MARS Simulator.
 
 ![MIPS](https://img.shields.io/badge/Language-MIPS_Assembly-red)
