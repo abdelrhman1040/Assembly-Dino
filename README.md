@@ -53,8 +53,7 @@ This project was developed as a final project for the **Computer Organization** 
 * **Input Polling:** Checking the Memory Mapped IO address `0xffff0000` for keyboard interrupts.
 * **Sprite Management:** Storing pixel data for the dinosaur and obstacles in the `.data` segment.
 
-## 👨‍💻 Team / Authors
-**Electronics and Communications Engineering (ECE) Students - Nile University**
+## 👨‍💻 Team 
 
 * **Abdelrahman Alaa**
 * **Amr Gaith**
