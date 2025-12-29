@@ -6,6 +6,10 @@
   <img width="49%" src="https://github.com/user-attachments/assets/8e968b91-8c2a-4a46-bbff-eeaf5d54c3a1" alt="Gameplay 3" />
 </div>
 
+https://github.com/user-attachments/assets/bf3b8423-2228-4c1b-ba73-424d579bf41e
+
+
+
 <br />
 
 A fully functional endless runner arcade game developed entirely in **MIPS Assembly Language**. This project demonstrates low-level programming concepts, memory manipulation, and real-time graphics rendering using the MARS Simulator.
