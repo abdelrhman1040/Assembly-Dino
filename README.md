@@ -1,14 +1,11 @@
 # MIPS Dino Run 🦖
 
+https://github.com/user-attachments/assets/bf3b8423-2228-4c1b-ba73-424d579bf41e
+
 <div align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/e54ae5d3-c125-43f3-abda-7776e1eed4e9" alt="Gameplay 1" />
   <img width="49%" src="https://github.com/user-attachments/assets/4f5b965d-2649-44d1-ac0f-9099623f48b2" alt="Gameplay 2" />
   <img width="49%" src="https://github.com/user-attachments/assets/8e968b91-8c2a-4a46-bbff-eeaf5d54c3a1" alt="Gameplay 3" />
 </div>
-
-https://github.com/user-attachments/assets/bf3b8423-2228-4c1b-ba73-424d579bf41e
-
-
 
 <br />
 
