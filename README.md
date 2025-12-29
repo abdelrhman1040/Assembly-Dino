@@ -1,6 +1,7 @@
 # MIPS Dino Run 🦖
 
-https://github.com/user-attachments/assets/bf3b8423-2228-4c1b-ba73-424d579bf41e
+https://github.com/user-attachments/assets/db859cd5-e293-4989-b0a5-a0e8b3ad8748
+
 
 <div align="center">
   <img width="49%" src="https://github.com/user-attachments/assets/4f5b965d-2649-44d1-ac0f-9099623f48b2" alt="Gameplay 2" />
